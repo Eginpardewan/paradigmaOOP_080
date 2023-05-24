@@ -33,6 +33,7 @@ public:
 		sekolah(pSekolah) {
 		cout << "Pelajar Dibuat\n" << endl;
 	}
+
 	~pelajar() {
 		cout << "Pelajar Dihapus\n" << endl;
 	}
